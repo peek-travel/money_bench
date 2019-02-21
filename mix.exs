@@ -22,10 +22,10 @@ defmodule MoneyBench.MixProject do
   defp deps do
     [
       {:benchee, "0.14.0"},
-      {:ex_cldr, "2.2.4"},
-      {:ex_cldr_currencies, "2.1.1"},
+      {:ex_cldr, "2.2.5"},
+      {:ex_cldr_currencies, "2.1.3"},
       {:ex_cldr_numbers, "2.1.1"},
-      {:ex_money, "3.2.3"},
+      {:ex_money, "3.2.4"},
       {:jason, "1.1.2"}
     ]
   end
