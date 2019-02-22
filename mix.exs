@@ -26,6 +26,7 @@ defmodule MoneyBench.MixProject do
       {:ex_cldr_currencies, "2.1.3"},
       {:ex_cldr_numbers, "2.1.1"},
       {:ex_money, "3.2.4"},
+      {:exprof, "~> 0.2.0"},
       {:jason, "1.1.2"}
     ]
   end
